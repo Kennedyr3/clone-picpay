@@ -14,32 +14,36 @@ const items = [
         bgColor: '#172c4a',
 
     },
+
     {
         key: String(Math.random()),
         img: img9,
         title: 'Pague suas contas sem sair de casa',
         bgColor: '#6a0159',
     },
+
     {
         key: String(Math.random()),
         img: img10,
         title: 'Pague suas contas sem sair de casa',
         bgColor: '#4139c8',
     },
+
     {
         key: String(Math.random()),
         img: img11,
         title: 'Pague suas contas sem sair de casa',
         bgColor: '#00ab4b',
     },
+
     {
         key: String(Math.random()),
         img: img12,
         title: 'Pague suas contas sem sair de casa',
         bgColor: '#ba2f76',
     },
-
 ]
+
 export default () => {
     return (
         <Container>
